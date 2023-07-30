@@ -1,0 +1,18 @@
+export const category = [
+  "Action and Adventure",
+  "Classics",
+  "Comic Book",
+  "Detective and Mystery",
+  "Fantasy",
+  "Historical Fiction",
+  "Horror",
+  "Literary Fiction",
+  "Romance",
+  "Science Fiction",
+  "Short Stories",
+  "Suspense and Thrillers",
+  "Biographies and Autobiographies",
+  "History",
+  "Comedy",
+  "Science",
+];
